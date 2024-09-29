@@ -24,5 +24,5 @@ int main()
 
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
-    return 0;
+    return 0; //memory leak, nincs torolve a b ponter
 }
