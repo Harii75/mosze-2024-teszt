@@ -1,1 +1,1 @@
-Én sajnos rutinból töröltem a hibajavító ágat.
+Én sajnos rutinból töröltem a hibajavító ágat, de ugyanúgy elkészítettem.
